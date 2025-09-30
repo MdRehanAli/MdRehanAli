@@ -153,14 +153,14 @@
         <section id="educations" class="my-40">
             <h1 class="text-5xl text-center mb-10">My Educations</h1>
             <div class="flex items-center gap-10 flex-wrap justify-center">
-                <div class="bg-teal-950 p-10 rounded-3xl max-w-screen drop-shadow-2xl shadow-sky-950">
+                <div class="bg-teal-950 p-10 rounded-3xl max-w-screen drop-shadow-2xl shadow-sky-950 hover:scale-110 ease-linear">
                     <h1 class="text-2xl">Secondary School Certificate (SSC)</h1>
                     <h3 class="my-2">Sreepur M.C. Pilot High School</h3>
                     <h4>2011-2012</h4>
                     <h5 class="my-2">Sreepur, Magura, Bangladesh</h5>
                     <h6>Result: 5.00 out of (5.00)</h6>
                 </div>
-                <div class="bg-cyan-950 p-10 rounded-3xl max-w-screen drop-shadow-2xl shadow-sky-950">
+                <div class="bg-cyan-950 p-10 rounded-3xl max-w-screen drop-shadow-2xl shadow-sky-950 hover:scale-110 ease-linear">
                     <h1 class="text-2xl">Higher Secondary Certificate (HSC)</h1>
                     <h3 class="my-2">Sreepur Degree College</h3>
                     <h4>2014-2017</h4>
@@ -169,7 +169,7 @@
                 </div>
 
 
-                <div class="bg-blue-950 p-10 rounded-3xl max-w-screen drop-shadow-2xl shadow-sky-950">
+                <div class="bg-blue-950 p-10 rounded-3xl max-w-screen drop-shadow-2xl shadow-sky-950 hover:scale-110 ease-linear">
                     <h1 class="text-2xl">B.Sc. Hons. in CSE</h1>
                     <h3 class="my-2">Shanto-Mariam University of Creative Technology</h3>
                     <h4>2020-2024</h4>
@@ -218,33 +218,47 @@
 
     <!-- Footer Section  -->
     <footer class="max-w-7xl mx-auto mt-40 pb-10 w-11/12">
-        <div class="flex flex-col md:flex-row justify-between items-center gap-10 md:text-left text-center">
+        <div class="flex flex-col md:flex-row justify-between gap-10 md:text-left text-center">
             <div class="md:w-1/4">
-                <h1 class="text-2xl">Md Rehan Ali</h1>
+                <h1 class="text-2xl mb-2">Md Rehan Ali</h1>
                 <p class="text-justify">I’m a passionate Frontend Developer focused on creating responsive,
                     user-friendly, and visually
                     appealing
                     websites. I enjoy turning ideas into reality using clean code and modern tools.</p>
             </div>
-            <div>
-                <h1>Services</h1>
-                <p>Web Development</p>
-                <p>UI/UX Design</p>
-                <p>Responsive Design</p>
-                <p>Performance Optimization</p>
+            <div class="flex flex-col gap-2">
+                <h1 class="text-2xl">Services</h1>
+                <a>Web Development</a>
+                <a>UI/UX Design</a>
+                <a>Responsive Design</a>
+                <a>Performance Optimization</a>
             </div>
-            <div>
-                <h1>Quick Links</h1>
-                <p>Home</p>
-                <p>Portfolio</p>
-                <p>About</p>
-                <p>Contact</p>
+            <div class="flex flex-col gap-2">
+                <h1 class="text-2xl">Quick Links</h1>
+                <a href="#home">Home</a>
+                <a href="#projects">Portfolio</a>
+                <a href="#about">About</a>
+                <a href="#contact">Contact</a>
             </div>
-            <div>
-                <h1>Contact Me</h1>
-                <p>rehanali21d@gmail.com</p>
-                <p>LinkedIn</p>
-                <p>GitHub</p>
+            <div class="flex flex-col gap-2">
+                <h1 class="text-2xl">Contact Me</h1>
+
+                <div class="flex items-center flex-col justify-center gap-2">
+                    <a href="https://www.linkedin.com/in/rehanali21/" target="_blank" rel="noopener noreferrer">
+                        <i
+                            class="fa-brands fa-linkedin cursor-pointer hover:scale-110 transition-all duration-200 text-5xl"></i>
+                    </a>
+
+                    <a href="https://github.com/MdRehanAli" target="_blank" rel="noopener noreferrer">
+                        <i
+                            class="fa-brands fa-github cursor-pointer hover:scale-110 transition-all duration-200 text-5xl"></i>
+                    </a>
+
+                    <a href="mailto:mdrehanali21d@gmail.com">
+                        <i
+                            class="fa-solid fa-envelope-circle-check cursor-pointer hover:scale-110 transition-all duration-200 text-5xl"></i>
+                    </a>
+                </div>
             </div>
         </div>
     </footer>
