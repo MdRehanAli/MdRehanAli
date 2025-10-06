@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+.navlink a:hover {
+  background-color: white;
+  color: black;
+}
