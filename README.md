@@ -34,7 +34,7 @@
 <h2 align="center">🔥 Stats 🔥</h2>
 <br>
   <div align=center >
-    <a href="https://github.com/MdRehanAli"><img align="left" width=990 height="300" src="https://streak-stats.demolab.com?user=MdRehanAli&theme=transparent&hide_border=true&stroke=19A4EB&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00&dates=8D8D8D" alt="GitHub Streak" /></a>
+    <a href="https://github.com/MdRehanAli"><img align="left" width=990 height="300" src="https://streak-stats.demolab.com?user=MdRehanAli&theme=transparent&hide_border=true&border=006AFF&stroke=19A4EB&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00&dates=8D8D8D" alt="GitHub Streak" /></a>
   </div>
 <br>
 <br>
