@@ -40,7 +40,7 @@
 <br>
 <hr>
 <br><br><br><br><br><br><br><br><br><br><br>
-
+<!-- 
 <h2 align="center">🧑‍💻 Languages 🧑‍💻</h2>
 <br>
   <div align=center >
@@ -49,7 +49,7 @@
 <br>
 <br>
 <hr>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br> -->
 
 <!-- Repositories  -->
 
