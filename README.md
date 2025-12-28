@@ -7,7 +7,7 @@
 
 <br/>
    A passionate fullstack developer 
-- 🌱 I’m currently learning **Next.js** .
+- 🌱 I’m currently learning **Nest.js** .
 
 - All of my projects are available at [https://mdrehanali.netlify.app/](https://mdrehanali.netlify.app/)
 
