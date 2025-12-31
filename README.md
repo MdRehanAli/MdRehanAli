@@ -1,4 +1,6 @@
-![Profile views](https://komarev.com/ghpvc/?username=MdRehanAli&color=blue)
+![Profile views](https://github.com/MdRehanAli)
+
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=MdRehanAli&color=blue) -->
 <img src="/banner.jpg"/>
 
 
