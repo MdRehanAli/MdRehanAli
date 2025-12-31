@@ -1,9 +1,8 @@
-![Profile views](https://github.com/MdRehanAli)
-
-<!-- ![Profile views](https://komarev.com/ghpvc/?username=MdRehanAli&color=blue) -->
+![Profile views](https://komarev.com/ghpvc/?username=MdRehanAli&color=blue)
+<a href="https://github.com/MdRehanAli">
+  <img src="https://komarev.com/ghpvc/?username=MdRehanAli&color=blue" alt="Profile views">
+</a>
 <img src="/banner.jpg"/>
-
-
 
 <h2 align="center"> I am open to work remotely .</h2>
 
