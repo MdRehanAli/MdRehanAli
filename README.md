@@ -6,16 +6,18 @@
 <h2 align="center"> I am open to work remotely .</h2>
 
 <br/>
-   A passionate fullstack developer 
+<p>Passionate and results-oriented <b>Full-Stack Web Developer</b> skilled in HTML, CSS, JavaScript, 
+React.js, Next.js, Node.js, Express.js, Firebase, MongoDB and many more. I combine strong design sense with technical expertise to build responsive, user friendly, and high-performing web applications. Adaptable and dedicated, I strive to deliver efficient, scalable solutions that meet both user needs and business goals.</p>
+
 - 🌱 I’m currently learning **Nest.js** .
 
-- All of my projects are available at [https://mdrehanali.netlify.app/](https://mdrehanali.netlify.app/)
+- 💻 All of my projects are available here. Visit my [website](https://mdrehanali.netlify.app/)
 
-- Ask me about **Website build, Custom website, E-commerce website, Full stack website**
+- 💭 Ask me about **Website build, Custom website, E-commerce website, Full stack website**
 
-- How to reach me **rehanali21d@gmail.com**
+- 📧 How to reach me? Mail at: **rehanali21d@gmail.com**
  
-- Know about my experiences . Here is my  <a href="https://drive.google.com/file/d/1F9CMdg0E99qOXl774LnUD8R1rA2K8l64/view?usp=drive_link" target="_blank">resume</a>
+- 💼 Know about my experiences . Here is my  <a href="https://drive.google.com/file/d/1F9CMdg0E99qOXl774LnUD8R1rA2K8l64/view?usp=drive_link" target="_blank">resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
