@@ -6,8 +6,7 @@
 <h2 align="center"> I am open to work remotely .</h2>
 
 <br/>
-<p>Passionate and results-oriented <b>Full-Stack Web Developer</b> skilled in HTML, CSS, JavaScript, 
-React.js, Next.js, Node.js, Express.js, Firebase, MongoDB and many more. I combine strong design sense with technical expertise to build responsive, user friendly, and high-performing web applications. Adaptable and dedicated, I strive to deliver efficient, scalable solutions that meet both user needs and business goals.</p>
+<p align="justify">Passionate and results-oriented <b>Full-Stack Web Developer</b> skilled in HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, Firebase, MongoDB, and more. I combine a strong design sense with technical expertise to build responsive, user-friendly, and high-performing web applications. Adaptable and dedicated, I strive to deliver efficient, scalable solutions that meet both user needs and business goals.</p>
 
 - 🌱 I’m currently learning **Nest.js** .
 
